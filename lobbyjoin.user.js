@@ -2,7 +2,7 @@
 // @name        rShadowhand's Steam Summer Game Lobby Joiner
 // @namespace   *steamcommunity.com/minigame*
 // @description A script that makes it easier to join to lobbies.
-// @version     1.0.5
+// @version     1.0.6
 // @match       *://steamcommunity.com/minigame*
 // @match       *://steamcommunity.com//minigame*
 // @exclude     *://steamcommunity.com/minigame/towerattack*
