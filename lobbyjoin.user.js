@@ -6,8 +6,8 @@
 // @match     *steamcommunity.com/minigame*
 // @exclude     *steamcommunity.com/minigame/towerattack
 // @grant       none
-// @updateURL https://raw.githubusercontent.com/RShadowhand/monsterGameLobbyJoin/master/lobbyjoin.js
-// @downloadURL https://raw.githubusercontent.com/RShadowhand/monsterGameLobbyJoin/master/lobbyjoin.js
+// @updateURL https://raw.githubusercontent.com/RShadowhand/monsterGameLobbyJoin/master/lobbyjoin.user.js
+// @downloadURL https://raw.githubusercontent.com/RShadowhand/monsterGameLobbyJoin/master/lobbyjoin.user.js
 // ==/UserScript==
 
 if (location.toString().indexOf("no=") > -1) {
