@@ -1,11 +1,12 @@
 // ==UserScript==
 // @name        rShadowhand's Steam Summer Game Lobby Joiner
 // @namespace   *steamcommunity.com/minigame*
+// @description A script that makes it easier to join to lobbies.
+// @version     1.2
 // @match     *steamcommunity.com/minigame*
 // @exclude     *steamcommunity.com/minigame/towerattack
-// @version     1.0
 // @grant       none
-// @updateURL   https://raw.githubusercontent.com/RShadowhand/monsterGameLobbyJoin/master/lobbyjoin.js
+// @updateURL https://raw.githubusercontent.com/RShadowhand/monsterGameLobbyJoin/master/lobbyjoin.js
 // @downloadURL https://raw.githubusercontent.com/RShadowhand/monsterGameLobbyJoin/master/lobbyjoin.js
 // ==/UserScript==
 
