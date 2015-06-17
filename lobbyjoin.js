@@ -5,6 +5,8 @@
 // @exclude     *steamcommunity.com/minigame/towerattack
 // @version     1.0
 // @grant       none
+// @updateURL   https://raw.githubusercontent.com/RShadowhand/monsterGameLobbyJoin/master/lobbyjoin.js
+// @downloadURL https://raw.githubusercontent.com/RShadowhand/monsterGameLobbyJoin/master/lobbyjoin.js
 // ==/UserScript==
 
 if (location.toString().indexOf("no=") > -1) {
