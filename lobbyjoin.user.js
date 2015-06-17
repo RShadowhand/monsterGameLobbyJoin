@@ -3,8 +3,8 @@
 // @namespace   *steamcommunity.com/minigame*
 // @description A script that makes it easier to join to lobbies.
 // @version     1.0.5
-// @match       *://steamcommunity.com/minigame/*
-// @match       *://steamcommunity.com//minigame/*
+// @match       *://steamcommunity.com/minigame*
+// @match       *://steamcommunity.com//minigame*
 // @exclude     *://steamcommunity.com/minigame/towerattack*
 // @grant       none
 // @updateURL https://raw.githubusercontent.com/RShadowhand/monsterGameLobbyJoin/master/lobbyjoin.user.js
