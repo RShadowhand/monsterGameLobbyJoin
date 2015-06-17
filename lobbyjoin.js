@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        rShadowhand's Steam Summer Game Lobby Joiner
 // @namespace   *steamcommunity.com/minigame*
-// @include     *steamcommunity.com/minigame*
+// @match     *steamcommunity.com/minigame*
 // @exclude     *steamcommunity.com/minigame/towerattack
 // @version     1.0
 // @grant       none
